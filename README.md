@@ -12,6 +12,9 @@ I am visual designer & web developer that specializes in responsive UI/UX design
 
 🔰**MY SERVICE:**<br>
 ✔️Web Design.<br>
+✔️UI/UX Concepts.<br>
+✔️Mobile App.<br>
+✔️Case Studies.<br>
 ✔️Social Media<br>
 ✔️SEO & SEM<br>
 
