@@ -1,4 +1,4 @@
-### Hi There, I'm Greg <br>
+### Hi There, I'm Gregg <br>
 **I am visual designer & web developer that specializes in responsive UI/UX design, animation, and branding, delivering the highest quality results.<br>**
 ![Profile views](https://gpvc.arturio.dev/digitalgregg)  
 
