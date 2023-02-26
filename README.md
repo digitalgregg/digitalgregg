@@ -1,27 +1,26 @@
 ### Hi There, I'm Gregg <br>
-**I am visual designer & web developer that specializes in responsive UI/UX design, animation, and branding, delivering the highest quality results.<br>**
+**As a visual designer and web developer, I pride myself on creating seamless, responsive UI/UX design that delivers an exceptional user experience. It is my keen eye for detail, a passion for animation,and savvy developer skills that positions me in a unique niche within my field.<br>**
 ![Profile views](https://gpvc.arturio.dev/digitalgregg)  
 
 
 🎡**MY PROGRAMMING SKILLS:**<br>
-✅HTML<br>
-✅CSS<br>
-✅JavaScript<br>
+✅MERN stack (Mongodb, Express, React.js, Node.js) <br>
+✅HTML, CSS, JS, Jquery<br>
+✅TypeScript<br>
 ✅Java<br>
 
 
-🔰**MY SERVICE:**<br>
-✔️Web Design.<br>
-✔️UI/UX Concepts.<br>
-✔️Mobile App.<br>
-✔️Case Studies.<br>
-✔️Social Media<br>
-✔️SEO & SEM<br>
+🔰**What I do:**<br>
+✔️Web Design & Development.<br>
+✔️UI/UX Design.<br>
+✔️Mobile Apps.<br>
+✔️SEO development.<br>
+✔️Contentwriting<br>
 
 
-**🛑HOW TO REACH ME:**<br> 
-✔️Facebook: **[digitalgregg](https://www.facebook.com/digitalgregg)<br>**
-✔️Linkedin: **[digitalgregg](https://www.linkedin.com/in/digitalgregg)<br>**
+**🛑Contact Me:**<br> 
+✔️Instagram: **[greggmckee](https://www.instagram.com/digitalgregg)<br>**
+✔️Linkedin: **[greggmckee](https://www.linkedin.com/in/greggmckee)<br>**
 ✔️E-Mail: **gregg@digitalgregg.com**<br> 
 
 
